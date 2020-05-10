@@ -1,0 +1,26 @@
+
+Fluxo Principal
+----------------
+1. Acessar o site do E-commerce desejado.
+2. Digitar, no campo de busca, o produto desejado.
+3.  Clicar no comando "Buscar".
+-Validar que, na mensagem de retorno com a quantidade de produtos, está o nome "IPHONE 11 PRO" e que estes são exibidos na tela.
+
+4. Clicar sobre o produto: 
+iPhone 11 Pro Max Apple com 512GB, Tela Retina HD de 6,5”, iOS 13, Tripla Câmera Traseira, Resistente à Água e Bateria de Longa Duração - Dourado.
+
+5. Clicar no comando "Comprar"
+-Validar que a tela exibe o texto "MEU CARRINHO".
+
+Fluxo alternativo
+------------------
+1. Começar a digitar o produto desejado e clicar na opção de produtos sugeridos pelo site
+-Validar se o produto desejado está na lista, e se estiver, realizar os passos 4 e 5 do Fluxo Principal.
+
+Obs.:
+*O Fluxo Alternativo está comentado no código, pois depende do histórico de busca do usuário.
+*Entendo a importância dos relatórios de validação, mas infelizmente, ainda não tenho conhecimento técnico para gerá-los adequadamente.
+
+Obrigada!
+=)
+
